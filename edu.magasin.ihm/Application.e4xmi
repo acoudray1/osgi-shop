@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmi:id="_UdDMgERFEeexBY1nrUg9zQ" elementId="org.eclipse.e4.ide.application" bindingContexts="_UdDMiURFEeexBY1nrUg9zQ">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_UdDMgURFEeexBY1nrUg9zQ" label="edu.magasin.ihm" width="500" height="400">
+    <children xsi:type="advanced:PerspectiveStack" xmi:id="_PUG4kERMEeexBY1nrUg9zQ" elementId="edu.magasin.ihm.perspectivestack.0">
+      <children xsi:type="advanced:Perspective" xmi:id="_TktLEERMEeexBY1nrUg9zQ" elementId="edu.magasin.ihm.perspective.0">
+        <children xsi:type="basic:PartSashContainer" xmi:id="_WWfWMERMEeexBY1nrUg9zQ" elementId="edu.magasin.ihm.partsashcontainer.0">
+          <children xsi:type="basic:Part" xmi:id="_YeZd4ERMEeexBY1nrUg9zQ" elementId="edu.magasin.ihm.parts.clientcreation" containerData="15" contributionURI="bundleclass://edu.magasin.ihm/edu.magasin.ihm.parts.ClientsCreationPart"/>
+          <children xsi:type="basic:PartStack" xmi:id="_bMKEoERMEeexBY1nrUg9zQ" elementId="edu.magasin.ihm.partstack.clients" containerData="100">
+            <children xsi:type="basic:Part" xmi:id="_bTzr4GSlEee0w6PMvQS_KQ" elementId="edu.magasin.ihm.parts.fournisseur" contributionURI="bundleclass://edu.magasin.ihm/edu.magasin.ihm.parts.FournisseurPart" label="Fournisseur"/>
+          </children>
+        </children>
+      </children>
+    </children>
+  </children>
+  <handlers xmi:id="_-Bl9AERNEeexBY1nrUg9zQ" elementId="edu.magasin.ihm.handlers.newclient" contributionURI="bundleclass://edu.magasin.ihm/edu.magasin.ihm.handlers.NewClientHandler" command="_w9pwIEROEeexBY1nrUg9zQ"/>
+  <handlers xmi:id="_fX1FgGSmEee0w6PMvQS_KQ" elementId="edu.magasin.ihm.handler.addproduct" contributionURI="bundleclass://edu.magasin.ihm/edu.magasin.ihm.handlers.AddProductHandler" command="_qUKQMGSmEee0w6PMvQS_KQ"/>
+  <handlers xmi:id="_hQKP0GubEeeCdpTa3cszuA" elementId="edu.magasin.ihm.handler.buyproduct" contributionURI="bundleclass://edu.magasin.ihm/edu.magasin.ihm.handlers.BuyProductHandler" command="_b18C0GubEeeCdpTa3cszuA"/>
+  <rootContext xmi:id="_UdDMiURFEeexBY1nrUg9zQ" elementId="org.eclipse.ui.contexts.dialogAndWindow" name="In Dialog and Windows">
+    <children xmi:id="_UdDMikRFEeexBY1nrUg9zQ" elementId="org.eclipse.ui.contexts.window" name="In Windows"/>
+    <children xmi:id="_UdDMi0RFEeexBY1nrUg9zQ" elementId="org.eclipse.ui.contexts.dialog" name="In Dialogs"/>
+  </rootContext>
+  <commands xmi:id="_w9pwIEROEeexBY1nrUg9zQ" elementId="edu.magasin.ihm.newclient" commandName="newClient"/>
+  <commands xmi:id="_qUKQMGSmEee0w6PMvQS_KQ" elementId="edu.magasin.ihm.addproduct" commandName="addProduct"/>
+  <commands xmi:id="_b18C0GubEeeCdpTa3cszuA" elementId="edu.magasin.ihm.buyproduct" commandName="buyProduct"/>
+  <addons xmi:id="_UdDMgkRFEeexBY1nrUg9zQ" elementId="org.eclipse.e4.core.commands.service" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
+  <addons xmi:id="_UdDMg0RFEeexBY1nrUg9zQ" elementId="org.eclipse.e4.ui.contexts.service" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
+  <addons xmi:id="_UdDMhERFEeexBY1nrUg9zQ" elementId="org.eclipse.e4.ui.bindings.service" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
+  <addons xmi:id="_UdDMhURFEeexBY1nrUg9zQ" elementId="org.eclipse.e4.ui.workbench.commands.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.CommandProcessingAddon"/>
+  <addons xmi:id="_UdDMhkRFEeexBY1nrUg9zQ" elementId="org.eclipse.e4.ui.workbench.handler.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
+  <addons xmi:id="_UdDMh0RFEeexBY1nrUg9zQ" elementId="org.eclipse.e4.ui.workbench.contexts.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.ContextProcessingAddon"/>
+  <addons xmi:id="_UdDMiERFEeexBY1nrUg9zQ" elementId="org.eclipse.e4.ui.workbench.bindings.model" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.swt/org.eclipse.e4.ui.workbench.swt.util.BindingProcessingAddon"/>
+</application:Application>

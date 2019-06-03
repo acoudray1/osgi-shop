@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" immediate="true" name="edu.magasin.ihm.parts.ClientPart">
+   <service>
+      <provide interface="java.util.Observer"/>
+   </service>
+   <reference bind="bindChatServer" cardinality="1..1" interface="edu.magasin.api.MagasinAchat" name="ChatServer" policy="dynamic" unbind="unbindChatServer"/>
+   <reference bind="bindFactory" cardinality="1..1" interface="org.osgi.service.component.ComponentFactory" name="Factory" policy="dynamic" target="(component.factory=edu.magasin.client.*)" unbind="unbindFactory"/>
+   <implementation class="edu.magasin.ihm.parts.ClientPart"/>
+</scr:component>

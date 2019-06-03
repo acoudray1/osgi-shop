@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.osgi.service.component.annotations.Activate"/>
+<fullyQualifiedTypeName name="edu.magasin.api.MagasinClient"/>
+<fullyQualifiedTypeName name="edu.magasin.api.MagasinApprovisionnement"/>
+<fullyQualifiedTypeName name="edu.chat.ihm.labels.NameColumnLabelProvider"/>
+<fullyQualifiedTypeName name="edu.magasin.ihm.labels.NameColumnLabelProvider"/>
+<fullyQualifiedTypeName name="edu.magasin.ihm.labels.MessageColumnLabelProvider"/>
+<fullyQualifiedTypeName name="java.util.Observable"/>
+<fullyQualifiedTypeName name="org.osgi.service.component.annotations.ReferencePolicy"/>
+<fullyQualifiedTypeName name="org.osgi.service.component.annotations.ReferenceCardinality"/>
+<fullyQualifiedTypeName name="org.osgi.service.component.annotations.Reference"/>
+<fullyQualifiedTypeName name="edu.magasin.api.ListProduitObservable"/>
+<fullyQualifiedTypeName name="edu.magasin.api.FournisseurMagasin"/>
+<fullyQualifiedTypeName name="edu.magasin.ihm.parts.FournisseurPart"/>
+<fullyQualifiedTypeName name="org.osgi.service.component.annotations.Component"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.MessageBox"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.Shell"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.SWT"/>
+<fullyQualifiedTypeName name="edu.magasin.ihm.labels.PriceColumnLabelProvider"/>
+<fullyQualifiedTypeName name="edu.magasin.ihm.parts.ClientPart"/>
+<fullyQualifiedTypeName name="edu.magasin.api.MagasinAchat"/>
+<fullyQualifiedTypeName name="org.eclipse.jface.viewers.StructuredSelection"/>
+<fullyQualifiedTypeName name="org.eclipse.swt.widgets.Label"/>
+<fullyQualifiedTypeName name="edu.magasin.api.Produit"/>
+<fullyQualifiedTypeName name="edu.magasin.api.ClientMagasin"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

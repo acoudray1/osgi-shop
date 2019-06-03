@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" name="edu.magasin.fournisseur.Fournisseur">
+   <service>
+      <provide interface="edu.magasin.api.FournisseurMagasin"/>
+   </service>
+   <reference bind="bindMagasinApprovisonnement" cardinality="1..1" interface="edu.magasin.api.MagasinApprovisionnement" name="MagasinApprovisonnement" policy="dynamic" unbind="unbindMagasinApprovisonnement"/>
+   <implementation class="edu.magasin.fournisseur.Fournisseur"/>
+</scr:component>

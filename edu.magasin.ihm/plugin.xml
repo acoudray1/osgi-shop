@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+   <extension
+         id="product"
+         point="org.eclipse.core.runtime.products">
+      <product
+            name="edu.magasin.ihm"
+            application="org.eclipse.e4.ui.workbench.swt.E4Application">
+         <property
+               name="applicationCSS"
+               value="platform:/plugin/edu.magasin.ihm/css/default.css">
+         </property>
+         <property
+               name="appName"
+               value="edu.magasin.ihm">
+         </property>
+      </product>
+   </extension>
+
+</plugin>

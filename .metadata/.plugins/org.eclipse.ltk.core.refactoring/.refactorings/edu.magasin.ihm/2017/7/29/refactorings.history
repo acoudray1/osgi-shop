@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AddProductHandler.java&apos; to &apos;edu.magasin.ihm/src/edu.magasin.ihm.handlers&apos;&#x0D;&#x0A;- Original project: &apos;edu.magasin.ihm&apos;&#x0D;&#x0A;- Destination element: &apos;edu.magasin.ihm/src/edu.magasin.ihm.handlers&apos;&#x0D;&#x0A;- Original element: &apos;edu.magasin.ihm.handlers.AddProductHandler.java&apos;" description="Copy compilation unit" destination="/src&lt;edu.magasin.ihm.handlers" element1="/src&lt;edu.magasin.ihm.handlers{AddProductHandler.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1500370016245" units="1" version="1.0"/>
+</session>
