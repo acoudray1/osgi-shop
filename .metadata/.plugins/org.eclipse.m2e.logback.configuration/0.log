@@ -75,3 +75,4 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 2019-06-10 15:32:57,582 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
 2019-06-13 13:47:28,485 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
 2019-06-13 13:58:50,733 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2019-06-13 14:05:33,708 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.

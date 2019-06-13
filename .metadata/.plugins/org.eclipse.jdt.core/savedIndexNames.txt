@@ -48,4 +48,3 @@ INDEX VERSION 1.127+C:\tp_osgi\workspaces\osgi-shop\.metadata\.plugins\org.eclip
 3567469485.index
 2200313406.index
 3100361098.index
-1982140659.index
