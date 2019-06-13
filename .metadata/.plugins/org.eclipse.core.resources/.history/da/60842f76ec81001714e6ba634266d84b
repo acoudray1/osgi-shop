@@ -1,9 +1,0 @@
-package edu.magasin.api;
-
-public interface ClientMagasin {
-
-	public ListProduitObservable getListeProduits();
-	public void addAchat(Produit aProduit, int quantity);
-	public double getMontantAchats();
-	public String getName();
-}

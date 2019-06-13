@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;edu.ihm.rcp.parts.PimpedCarsPart.java&apos; to &apos;PimpGarageView.java&apos;&#x0D;&#x0A;- Original project: &apos;edu.ihm.rcp&apos;&#x0D;&#x0A;- Original element: &apos;edu.ihm.rcp.parts.PimpedCarsPart.java&apos;&#x0D;&#x0A;- Renamed element: &apos;edu.ihm.rcp.parts.PimpGarageView.java&apos;" description="Rename compilation unit &apos;PimpedCarsPart.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;edu.ihm.rcp.parts{PimpedCarsPart.java" name="PimpGarageView.java" references="false" stamp="1559567252181" version="1.0"/>
+</session>

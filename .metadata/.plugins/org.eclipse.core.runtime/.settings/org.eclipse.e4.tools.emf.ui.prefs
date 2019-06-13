@@ -1,15 +1,9 @@
-DIALOG_HEIGHT=469
-DIALOG_WIDTH=875
-DIALOG_X_ORIGIN=11
-DIALOG_Y_ORIGIN=11
 autoCreateElementId=true
 eclipse.preferences.version=1
 list-tab-remember-columns=false
 list-tab-remember-filters=false
-list-tab-xml=<list-tab><columns><column><attribute>GoTree</attribute><width>40</width></column><column><attribute>GoXmi</attribute><width>40</width></column><column><attribute>Marked</attribute><width>54</width></column><column><attribute>Item</attribute><width>158</width></column><column><attribute>elementId</attribute><width>379</width></column><column><attribute>label</attribute><width>149</width></column></columns><filters/></list-tab>
+list-tab-xml=<list-tab><columns><column><attribute>GoTree</attribute><width>33</width></column><column><attribute>GoXmi</attribute><width>34</width></column><column><attribute>Marked</attribute><width>47</width></column><column><attribute>Item</attribute><width>134</width></column><column><attribute>elementId</attribute><width>317</width></column><column><attribute>label</attribute><width>126</width></column></columns><filters/></list-tab>
 notRenderedColor=200,200,200
 notVisibleAndRenderedColor=200,200,200
 notVisibleColor=200,200,200
-searchScope=PROJECT
-searchScopes=[PROJECT]
 tab-form-search-show=false

@@ -1,4 +1,4 @@
-# List of external plug-in models previously loaded. Timestamp: 1502812536020
+# List of external plug-in models previously loaded. Timestamp: 1560427504573
 file:/C:/tp_osgi/eclipseE4Tools/plugins/ca.ecliptical.pde.ds_1.2.8.v20151122-2215.jar
 file:/C:/tp_osgi/eclipseE4Tools/plugins/ca.ecliptical.pde.ds.classpath_1.0.0.v20151122-2215.jar
 file:/C:/tp_osgi/eclipseE4Tools/plugins/ca.ecliptical.pde.ds.lib_1.0.0.v20141223-1920/
@@ -721,3 +721,8 @@ file:/C:/tp_osgi/eclipseE4Tools/plugins/org.w3c.css.sac.source_1.3.1.v2009030916
 file:/C:/tp_osgi/eclipseE4Tools/plugins/org.w3c.dom.events.source_3.0.0.draft20060413_v201105210656.jar
 file:/C:/tp_osgi/eclipseE4Tools/plugins/org.w3c.dom.smil.source_1.0.1.v200903091627.jar
 file:/C:/tp_osgi/eclipseE4Tools/plugins/org.w3c.dom.svg.source_1.1.0.v201011041433.jar
+file:/C:/Users/axelc/Downloads/TP4magasin/edu.magasin.api/
+file:/C:/Users/axelc/Downloads/TP4magasin/edu.magasin.client/
+file:/C:/Users/axelc/Downloads/TP4magasin/edu.magasin.fournisseur/
+file:/C:/Users/axelc/Downloads/TP4magasin/edu.magasin.ihm/
+file:/C:/Users/axelc/Downloads/TP4magasin/edu.magasin.magasin/
